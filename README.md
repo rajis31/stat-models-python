@@ -9,3 +9,17 @@
 </p>
   
 <a id = 'summary'></a>
+Here  I will go over the various distributions that are seen often as well as their properties. I will derive some of the properties use **MLE estimation** and derive the **CDF** as well.
+
+I have already introduced the following statistical distributions 
+
+<ul>
+   <li>Bernoulli</li>
+   <li>Normal</li>
+   <li>Exponential</li>
+</ul>
+
+<a id = 'conclusion'></a>
+
+
+   
