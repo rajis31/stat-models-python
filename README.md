@@ -11,7 +11,7 @@
 <a id = 'summary'></a>
 ## Summary 
 
-Here  I will go over the various distributions that are seen often as well as their properties. I will derive some of the properties use **MLE estimation** and derive the **CDF** as well.
+Here  I will go over the various distributions that are seen often as well as their properties. I will derive some of the properties using **MLE estimation** and show how to derive the **CDF** as well.
 
 I have already introduced the following statistical distributions which include:
 
