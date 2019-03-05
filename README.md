@@ -22,7 +22,8 @@ I have already introduced the following statistical distributions which include:
 </ul>
 
 <a id = 'conclusion'></a>
-
+## Conclusion 
+I will continue to be adding new statistical distributions and making edits to prior editions of this workbook. This workbook should hopefully highlight some of the common properties as well as give more exposure using Matplotlib and related modules to visualize them.  
 
 
    
